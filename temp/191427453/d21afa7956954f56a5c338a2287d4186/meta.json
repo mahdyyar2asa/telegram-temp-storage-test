@@ -1,0 +1,60 @@
+{
+  "job_id": "47a74009433a4be987e5e0494fc97085",
+  "telegram_user_id": 191427453,
+  "request_id": "d21afa7956954f56a5c338a2287d4186",
+  "created_at": "2026-05-15T12:48:01.502173+00:00",
+  "expires_at": "2026-05-16T12:47:31.337440+00:00",
+  "user_id": 191427453,
+  "original_filename": "downloads",
+  "total_size": 149902479,
+  "archive_size": 149390587,
+  "parts_count": 2,
+  "files": [
+    {
+      "index": 1,
+      "filename": "job_47a74009__user_191427453.z01",
+      "source_filename": "job_47a74009__user_191427453.z01",
+      "size": 99614720,
+      "sha256": "3aa787a91563e526243a6a51b31c97c855381d04cc0c6ffc40d1619ad53aeb02",
+      "raw_url": "https://raw.githubusercontent.com/mahdyyar2asa/telegram-temp-storage-test/storage-191427453-d21afa79/temp/191427453/d21afa7956954f56a5c338a2287d4186/job_47a74009__user_191427453.z01"
+    },
+    {
+      "index": 2,
+      "filename": "job_47a74009__user_191427453.zip",
+      "source_filename": "job_47a74009__user_191427453.zip",
+      "size": 49775867,
+      "sha256": "6ef0040ae3a1fc5ff6f4c379f12e139df29854854af0a0299ee1218c0de02cb5",
+      "raw_url": "https://raw.githubusercontent.com/mahdyyar2asa/telegram-temp-storage-test/storage-191427453-d21afa79/temp/191427453/d21afa7956954f56a5c338a2287d4186/job_47a74009__user_191427453.zip"
+    }
+  ],
+  "repo_owner": "mahdyyar2asa",
+  "repo_name": "telegram-temp-storage-test",
+  "branch": "storage-191427453-d21afa79",
+  "remote_path": "temp/191427453/d21afa7956954f56a5c338a2287d4186",
+  "parts": [
+    {
+      "index": 1,
+      "filename": "job_47a74009__user_191427453.z01",
+      "source_filename": "job_47a74009__user_191427453.z01",
+      "size": 99614720,
+      "sha256": "3aa787a91563e526243a6a51b31c97c855381d04cc0c6ffc40d1619ad53aeb02",
+      "raw_url": "https://raw.githubusercontent.com/mahdyyar2asa/telegram-temp-storage-test/storage-191427453-d21afa79/temp/191427453/d21afa7956954f56a5c338a2287d4186/job_47a74009__user_191427453.z01"
+    },
+    {
+      "index": 2,
+      "filename": "job_47a74009__user_191427453.zip",
+      "source_filename": "job_47a74009__user_191427453.zip",
+      "size": 49775867,
+      "sha256": "6ef0040ae3a1fc5ff6f4c379f12e139df29854854af0a0299ee1218c0de02cb5",
+      "raw_url": "https://raw.githubusercontent.com/mahdyyar2asa/telegram-temp-storage-test/storage-191427453-d21afa79/temp/191427453/d21afa7956954f56a5c338a2287d4186/job_47a74009__user_191427453.zip"
+    }
+  ],
+  "part_size_limit_mb": 95,
+  "archive_filename": "job_47a74009__user_191427453.zip",
+  "archive_format": "zip",
+  "encrypted": true,
+  "encryption": "AES256",
+  "password_source": "panel_password",
+  "split_method": "standard_zip_volumes",
+  "sha256": "1d9fac131ef358a978e877811d6e290b45f5a209ae5d71ddca15a20ad15fd8fe"
+}
