@@ -1,0 +1,284 @@
+{
+  "job_id": "e37479a00fba454c98537195c4ff5e89",
+  "telegram_user_id": 191427453,
+  "request_id": "4d95f4f2abb14f8991f6f0b7ab2e6c81",
+  "created_at": "2026-05-15T13:08:43.784814+00:00",
+  "expires_at": "2026-05-16T13:00:38.286490+00:00",
+  "user_id": 191427453,
+  "original_filename": "downloads",
+  "total_size": 1595257511,
+  "archive_size": 1582672094,
+  "parts_count": 16,
+  "files": [
+    {
+      "index": 1,
+      "filename": "job_e37479a0__user_191427453.z01",
+      "source_filename": "job_e37479a0__user_191427453.z01",
+      "size": 99614720,
+      "sha256": "e02e62ccdd9d5f2aa78f86252a97240e8147ad994e987fb3e7e94264f282ad28",
+      "raw_url": "https://raw.githubusercontent.com/mahdyyar2asa/telegram-temp-storage-test/storage-191427453-4d95f4f2/temp/191427453/4d95f4f2abb14f8991f6f0b7ab2e6c81/job_e37479a0__user_191427453.z01"
+    },
+    {
+      "index": 2,
+      "filename": "job_e37479a0__user_191427453.z02",
+      "source_filename": "job_e37479a0__user_191427453.z02",
+      "size": 99614720,
+      "sha256": "27b47e77f0cadb02846c13a0a9d640f06cc65e280fecc5ea15ffa0fa36bf771d",
+      "raw_url": "https://raw.githubusercontent.com/mahdyyar2asa/telegram-temp-storage-test/storage-191427453-4d95f4f2/temp/191427453/4d95f4f2abb14f8991f6f0b7ab2e6c81/job_e37479a0__user_191427453.z02"
+    },
+    {
+      "index": 3,
+      "filename": "job_e37479a0__user_191427453.z03",
+      "source_filename": "job_e37479a0__user_191427453.z03",
+      "size": 99614720,
+      "sha256": "53d0130a5c75b989fd2e889813cb3dc33437b0b738d3069f2b6cf00245846c89",
+      "raw_url": "https://raw.githubusercontent.com/mahdyyar2asa/telegram-temp-storage-test/storage-191427453-4d95f4f2/temp/191427453/4d95f4f2abb14f8991f6f0b7ab2e6c81/job_e37479a0__user_191427453.z03"
+    },
+    {
+      "index": 4,
+      "filename": "job_e37479a0__user_191427453.z04",
+      "source_filename": "job_e37479a0__user_191427453.z04",
+      "size": 99614720,
+      "sha256": "90b04a0d257e6ea482a68e332f23144cbd3aa2f84aa3c78833278d0696de0edf",
+      "raw_url": "https://raw.githubusercontent.com/mahdyyar2asa/telegram-temp-storage-test/storage-191427453-4d95f4f2/temp/191427453/4d95f4f2abb14f8991f6f0b7ab2e6c81/job_e37479a0__user_191427453.z04"
+    },
+    {
+      "index": 5,
+      "filename": "job_e37479a0__user_191427453.z05",
+      "source_filename": "job_e37479a0__user_191427453.z05",
+      "size": 99614720,
+      "sha256": "ad64210759ee781a3b86dabafab4ccf0b44a3b7643971d4874c506d15b89054a",
+      "raw_url": "https://raw.githubusercontent.com/mahdyyar2asa/telegram-temp-storage-test/storage-191427453-4d95f4f2/temp/191427453/4d95f4f2abb14f8991f6f0b7ab2e6c81/job_e37479a0__user_191427453.z05"
+    },
+    {
+      "index": 6,
+      "filename": "job_e37479a0__user_191427453.z06",
+      "source_filename": "job_e37479a0__user_191427453.z06",
+      "size": 99614720,
+      "sha256": "cd563e1d30c03bfe13b22fd16c012bf1c40f530021dbc65a78290deb332f1efc",
+      "raw_url": "https://raw.githubusercontent.com/mahdyyar2asa/telegram-temp-storage-test/storage-191427453-4d95f4f2/temp/191427453/4d95f4f2abb14f8991f6f0b7ab2e6c81/job_e37479a0__user_191427453.z06"
+    },
+    {
+      "index": 7,
+      "filename": "job_e37479a0__user_191427453.z07",
+      "source_filename": "job_e37479a0__user_191427453.z07",
+      "size": 99614720,
+      "sha256": "20c617fd2f627b4c844b4db03e7e103158dee727f8f58f260fb6c09370fe240b",
+      "raw_url": "https://raw.githubusercontent.com/mahdyyar2asa/telegram-temp-storage-test/storage-191427453-4d95f4f2/temp/191427453/4d95f4f2abb14f8991f6f0b7ab2e6c81/job_e37479a0__user_191427453.z07"
+    },
+    {
+      "index": 8,
+      "filename": "job_e37479a0__user_191427453.z08",
+      "source_filename": "job_e37479a0__user_191427453.z08",
+      "size": 99614720,
+      "sha256": "558a13aaae7112baf065761b2e9d3fd1edc02bef0851eb2c2ac783971262ad90",
+      "raw_url": "https://raw.githubusercontent.com/mahdyyar2asa/telegram-temp-storage-test/storage-191427453-4d95f4f2/temp/191427453/4d95f4f2abb14f8991f6f0b7ab2e6c81/job_e37479a0__user_191427453.z08"
+    },
+    {
+      "index": 9,
+      "filename": "job_e37479a0__user_191427453.z09",
+      "source_filename": "job_e37479a0__user_191427453.z09",
+      "size": 99614720,
+      "sha256": "6b3f954be8cc54099f2d3b30b5f0b24630a6b365b0c25408bee97b2473a9077f",
+      "raw_url": "https://raw.githubusercontent.com/mahdyyar2asa/telegram-temp-storage-test/storage-191427453-4d95f4f2/temp/191427453/4d95f4f2abb14f8991f6f0b7ab2e6c81/job_e37479a0__user_191427453.z09"
+    },
+    {
+      "index": 10,
+      "filename": "job_e37479a0__user_191427453.z10",
+      "source_filename": "job_e37479a0__user_191427453.z10",
+      "size": 99614720,
+      "sha256": "9efaf773923c02966d9a7eec36bb67dadd2d3ca06218fa1655caa00f5bafbe9c",
+      "raw_url": "https://raw.githubusercontent.com/mahdyyar2asa/telegram-temp-storage-test/storage-191427453-4d95f4f2/temp/191427453/4d95f4f2abb14f8991f6f0b7ab2e6c81/job_e37479a0__user_191427453.z10"
+    },
+    {
+      "index": 11,
+      "filename": "job_e37479a0__user_191427453.z11",
+      "source_filename": "job_e37479a0__user_191427453.z11",
+      "size": 99614720,
+      "sha256": "6adeac0eeec54a7dd9a914cf3eaf697d32c757a65cacaacf1b6e4c7d4f5fb5e7",
+      "raw_url": "https://raw.githubusercontent.com/mahdyyar2asa/telegram-temp-storage-test/storage-191427453-4d95f4f2/temp/191427453/4d95f4f2abb14f8991f6f0b7ab2e6c81/job_e37479a0__user_191427453.z11"
+    },
+    {
+      "index": 12,
+      "filename": "job_e37479a0__user_191427453.z12",
+      "source_filename": "job_e37479a0__user_191427453.z12",
+      "size": 99614720,
+      "sha256": "5cc1f002b564475deac7dc03951231b8720b7a03b140b6f75105067be18fa3b8",
+      "raw_url": "https://raw.githubusercontent.com/mahdyyar2asa/telegram-temp-storage-test/storage-191427453-4d95f4f2/temp/191427453/4d95f4f2abb14f8991f6f0b7ab2e6c81/job_e37479a0__user_191427453.z12"
+    },
+    {
+      "index": 13,
+      "filename": "job_e37479a0__user_191427453.z13",
+      "source_filename": "job_e37479a0__user_191427453.z13",
+      "size": 99614720,
+      "sha256": "5af88b98672c2a34503900d9157ac4747362ee1bc008c3b7394e3de3d8b405bc",
+      "raw_url": "https://raw.githubusercontent.com/mahdyyar2asa/telegram-temp-storage-test/storage-191427453-4d95f4f2/temp/191427453/4d95f4f2abb14f8991f6f0b7ab2e6c81/job_e37479a0__user_191427453.z13"
+    },
+    {
+      "index": 14,
+      "filename": "job_e37479a0__user_191427453.z14",
+      "source_filename": "job_e37479a0__user_191427453.z14",
+      "size": 99614720,
+      "sha256": "1d5053bd4cedff61797e272c7aa55e96875e7ba50052ddc41760a26ac4335aed",
+      "raw_url": "https://raw.githubusercontent.com/mahdyyar2asa/telegram-temp-storage-test/storage-191427453-4d95f4f2/temp/191427453/4d95f4f2abb14f8991f6f0b7ab2e6c81/job_e37479a0__user_191427453.z14"
+    },
+    {
+      "index": 15,
+      "filename": "job_e37479a0__user_191427453.z15",
+      "source_filename": "job_e37479a0__user_191427453.z15",
+      "size": 99614720,
+      "sha256": "cd20af2a03e1b5716cd838979e6d20157687e0dd018b41b6f25affddaf5160b1",
+      "raw_url": "https://raw.githubusercontent.com/mahdyyar2asa/telegram-temp-storage-test/storage-191427453-4d95f4f2/temp/191427453/4d95f4f2abb14f8991f6f0b7ab2e6c81/job_e37479a0__user_191427453.z15"
+    },
+    {
+      "index": 16,
+      "filename": "job_e37479a0__user_191427453.zip",
+      "source_filename": "job_e37479a0__user_191427453.zip",
+      "size": 88451294,
+      "sha256": "30791401f93876f1f6ce56cef750fd977682fa90f1563c8c6539984f76531c83",
+      "raw_url": "https://raw.githubusercontent.com/mahdyyar2asa/telegram-temp-storage-test/storage-191427453-4d95f4f2/temp/191427453/4d95f4f2abb14f8991f6f0b7ab2e6c81/job_e37479a0__user_191427453.zip"
+    }
+  ],
+  "repo_owner": "mahdyyar2asa",
+  "repo_name": "telegram-temp-storage-test",
+  "branch": "storage-191427453-4d95f4f2",
+  "remote_path": "temp/191427453/4d95f4f2abb14f8991f6f0b7ab2e6c81",
+  "parts": [
+    {
+      "index": 1,
+      "filename": "job_e37479a0__user_191427453.z01",
+      "source_filename": "job_e37479a0__user_191427453.z01",
+      "size": 99614720,
+      "sha256": "e02e62ccdd9d5f2aa78f86252a97240e8147ad994e987fb3e7e94264f282ad28",
+      "raw_url": "https://raw.githubusercontent.com/mahdyyar2asa/telegram-temp-storage-test/storage-191427453-4d95f4f2/temp/191427453/4d95f4f2abb14f8991f6f0b7ab2e6c81/job_e37479a0__user_191427453.z01"
+    },
+    {
+      "index": 2,
+      "filename": "job_e37479a0__user_191427453.z02",
+      "source_filename": "job_e37479a0__user_191427453.z02",
+      "size": 99614720,
+      "sha256": "27b47e77f0cadb02846c13a0a9d640f06cc65e280fecc5ea15ffa0fa36bf771d",
+      "raw_url": "https://raw.githubusercontent.com/mahdyyar2asa/telegram-temp-storage-test/storage-191427453-4d95f4f2/temp/191427453/4d95f4f2abb14f8991f6f0b7ab2e6c81/job_e37479a0__user_191427453.z02"
+    },
+    {
+      "index": 3,
+      "filename": "job_e37479a0__user_191427453.z03",
+      "source_filename": "job_e37479a0__user_191427453.z03",
+      "size": 99614720,
+      "sha256": "53d0130a5c75b989fd2e889813cb3dc33437b0b738d3069f2b6cf00245846c89",
+      "raw_url": "https://raw.githubusercontent.com/mahdyyar2asa/telegram-temp-storage-test/storage-191427453-4d95f4f2/temp/191427453/4d95f4f2abb14f8991f6f0b7ab2e6c81/job_e37479a0__user_191427453.z03"
+    },
+    {
+      "index": 4,
+      "filename": "job_e37479a0__user_191427453.z04",
+      "source_filename": "job_e37479a0__user_191427453.z04",
+      "size": 99614720,
+      "sha256": "90b04a0d257e6ea482a68e332f23144cbd3aa2f84aa3c78833278d0696de0edf",
+      "raw_url": "https://raw.githubusercontent.com/mahdyyar2asa/telegram-temp-storage-test/storage-191427453-4d95f4f2/temp/191427453/4d95f4f2abb14f8991f6f0b7ab2e6c81/job_e37479a0__user_191427453.z04"
+    },
+    {
+      "index": 5,
+      "filename": "job_e37479a0__user_191427453.z05",
+      "source_filename": "job_e37479a0__user_191427453.z05",
+      "size": 99614720,
+      "sha256": "ad64210759ee781a3b86dabafab4ccf0b44a3b7643971d4874c506d15b89054a",
+      "raw_url": "https://raw.githubusercontent.com/mahdyyar2asa/telegram-temp-storage-test/storage-191427453-4d95f4f2/temp/191427453/4d95f4f2abb14f8991f6f0b7ab2e6c81/job_e37479a0__user_191427453.z05"
+    },
+    {
+      "index": 6,
+      "filename": "job_e37479a0__user_191427453.z06",
+      "source_filename": "job_e37479a0__user_191427453.z06",
+      "size": 99614720,
+      "sha256": "cd563e1d30c03bfe13b22fd16c012bf1c40f530021dbc65a78290deb332f1efc",
+      "raw_url": "https://raw.githubusercontent.com/mahdyyar2asa/telegram-temp-storage-test/storage-191427453-4d95f4f2/temp/191427453/4d95f4f2abb14f8991f6f0b7ab2e6c81/job_e37479a0__user_191427453.z06"
+    },
+    {
+      "index": 7,
+      "filename": "job_e37479a0__user_191427453.z07",
+      "source_filename": "job_e37479a0__user_191427453.z07",
+      "size": 99614720,
+      "sha256": "20c617fd2f627b4c844b4db03e7e103158dee727f8f58f260fb6c09370fe240b",
+      "raw_url": "https://raw.githubusercontent.com/mahdyyar2asa/telegram-temp-storage-test/storage-191427453-4d95f4f2/temp/191427453/4d95f4f2abb14f8991f6f0b7ab2e6c81/job_e37479a0__user_191427453.z07"
+    },
+    {
+      "index": 8,
+      "filename": "job_e37479a0__user_191427453.z08",
+      "source_filename": "job_e37479a0__user_191427453.z08",
+      "size": 99614720,
+      "sha256": "558a13aaae7112baf065761b2e9d3fd1edc02bef0851eb2c2ac783971262ad90",
+      "raw_url": "https://raw.githubusercontent.com/mahdyyar2asa/telegram-temp-storage-test/storage-191427453-4d95f4f2/temp/191427453/4d95f4f2abb14f8991f6f0b7ab2e6c81/job_e37479a0__user_191427453.z08"
+    },
+    {
+      "index": 9,
+      "filename": "job_e37479a0__user_191427453.z09",
+      "source_filename": "job_e37479a0__user_191427453.z09",
+      "size": 99614720,
+      "sha256": "6b3f954be8cc54099f2d3b30b5f0b24630a6b365b0c25408bee97b2473a9077f",
+      "raw_url": "https://raw.githubusercontent.com/mahdyyar2asa/telegram-temp-storage-test/storage-191427453-4d95f4f2/temp/191427453/4d95f4f2abb14f8991f6f0b7ab2e6c81/job_e37479a0__user_191427453.z09"
+    },
+    {
+      "index": 10,
+      "filename": "job_e37479a0__user_191427453.z10",
+      "source_filename": "job_e37479a0__user_191427453.z10",
+      "size": 99614720,
+      "sha256": "9efaf773923c02966d9a7eec36bb67dadd2d3ca06218fa1655caa00f5bafbe9c",
+      "raw_url": "https://raw.githubusercontent.com/mahdyyar2asa/telegram-temp-storage-test/storage-191427453-4d95f4f2/temp/191427453/4d95f4f2abb14f8991f6f0b7ab2e6c81/job_e37479a0__user_191427453.z10"
+    },
+    {
+      "index": 11,
+      "filename": "job_e37479a0__user_191427453.z11",
+      "source_filename": "job_e37479a0__user_191427453.z11",
+      "size": 99614720,
+      "sha256": "6adeac0eeec54a7dd9a914cf3eaf697d32c757a65cacaacf1b6e4c7d4f5fb5e7",
+      "raw_url": "https://raw.githubusercontent.com/mahdyyar2asa/telegram-temp-storage-test/storage-191427453-4d95f4f2/temp/191427453/4d95f4f2abb14f8991f6f0b7ab2e6c81/job_e37479a0__user_191427453.z11"
+    },
+    {
+      "index": 12,
+      "filename": "job_e37479a0__user_191427453.z12",
+      "source_filename": "job_e37479a0__user_191427453.z12",
+      "size": 99614720,
+      "sha256": "5cc1f002b564475deac7dc03951231b8720b7a03b140b6f75105067be18fa3b8",
+      "raw_url": "https://raw.githubusercontent.com/mahdyyar2asa/telegram-temp-storage-test/storage-191427453-4d95f4f2/temp/191427453/4d95f4f2abb14f8991f6f0b7ab2e6c81/job_e37479a0__user_191427453.z12"
+    },
+    {
+      "index": 13,
+      "filename": "job_e37479a0__user_191427453.z13",
+      "source_filename": "job_e37479a0__user_191427453.z13",
+      "size": 99614720,
+      "sha256": "5af88b98672c2a34503900d9157ac4747362ee1bc008c3b7394e3de3d8b405bc",
+      "raw_url": "https://raw.githubusercontent.com/mahdyyar2asa/telegram-temp-storage-test/storage-191427453-4d95f4f2/temp/191427453/4d95f4f2abb14f8991f6f0b7ab2e6c81/job_e37479a0__user_191427453.z13"
+    },
+    {
+      "index": 14,
+      "filename": "job_e37479a0__user_191427453.z14",
+      "source_filename": "job_e37479a0__user_191427453.z14",
+      "size": 99614720,
+      "sha256": "1d5053bd4cedff61797e272c7aa55e96875e7ba50052ddc41760a26ac4335aed",
+      "raw_url": "https://raw.githubusercontent.com/mahdyyar2asa/telegram-temp-storage-test/storage-191427453-4d95f4f2/temp/191427453/4d95f4f2abb14f8991f6f0b7ab2e6c81/job_e37479a0__user_191427453.z14"
+    },
+    {
+      "index": 15,
+      "filename": "job_e37479a0__user_191427453.z15",
+      "source_filename": "job_e37479a0__user_191427453.z15",
+      "size": 99614720,
+      "sha256": "cd20af2a03e1b5716cd838979e6d20157687e0dd018b41b6f25affddaf5160b1",
+      "raw_url": "https://raw.githubusercontent.com/mahdyyar2asa/telegram-temp-storage-test/storage-191427453-4d95f4f2/temp/191427453/4d95f4f2abb14f8991f6f0b7ab2e6c81/job_e37479a0__user_191427453.z15"
+    },
+    {
+      "index": 16,
+      "filename": "job_e37479a0__user_191427453.zip",
+      "source_filename": "job_e37479a0__user_191427453.zip",
+      "size": 88451294,
+      "sha256": "30791401f93876f1f6ce56cef750fd977682fa90f1563c8c6539984f76531c83",
+      "raw_url": "https://raw.githubusercontent.com/mahdyyar2asa/telegram-temp-storage-test/storage-191427453-4d95f4f2/temp/191427453/4d95f4f2abb14f8991f6f0b7ab2e6c81/job_e37479a0__user_191427453.zip"
+    }
+  ],
+  "part_size_limit_mb": 95,
+  "archive_filename": "job_e37479a0__user_191427453.zip",
+  "archive_format": "zip",
+  "encrypted": true,
+  "encryption": "AES256",
+  "password_source": "panel_password",
+  "split_method": "standard_zip_volumes",
+  "sha256": "6acd0c4372bd687eb4390697bfb983d48823ed515cf67eb308b76fbc0222bc1e"
+}
