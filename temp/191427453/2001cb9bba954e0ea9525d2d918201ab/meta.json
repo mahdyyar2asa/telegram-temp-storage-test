@@ -1,0 +1,44 @@
+{
+  "job_id": "3e4bdde54adf43b585ec87b26ee8e02a",
+  "telegram_user_id": 191427453,
+  "request_id": "2001cb9bba954e0ea9525d2d918201ab",
+  "created_at": "2026-05-17T10:15:29.505466+00:00",
+  "expires_at": "2026-05-18T10:15:18.257760+00:00",
+  "user_id": 191427453,
+  "original_filename": "downloads",
+  "total_size": 36968596,
+  "archive_size": 35597597,
+  "parts_count": 1,
+  "files": [
+    {
+      "index": 1,
+      "filename": "job_3e4bdde5__user_191427453.zip",
+      "source_filename": "job_3e4bdde5__user_191427453.zip",
+      "size": 35597597,
+      "sha256": "33445d6d8d5638a5608222cff32e92b0f5148a6eb10c7111c3a5aaca6ea76c13",
+      "raw_url": "https://raw.githubusercontent.com/mahdyyar2asa/telegram-temp-storage-test/storage-191427453-2001cb9b/temp/191427453/2001cb9bba954e0ea9525d2d918201ab/job_3e4bdde5__user_191427453.zip"
+    }
+  ],
+  "repo_owner": "mahdyyar2asa",
+  "repo_name": "telegram-temp-storage-test",
+  "branch": "storage-191427453-2001cb9b",
+  "remote_path": "temp/191427453/2001cb9bba954e0ea9525d2d918201ab",
+  "parts": [
+    {
+      "index": 1,
+      "filename": "job_3e4bdde5__user_191427453.zip",
+      "source_filename": "job_3e4bdde5__user_191427453.zip",
+      "size": 35597597,
+      "sha256": "33445d6d8d5638a5608222cff32e92b0f5148a6eb10c7111c3a5aaca6ea76c13",
+      "raw_url": "https://raw.githubusercontent.com/mahdyyar2asa/telegram-temp-storage-test/storage-191427453-2001cb9b/temp/191427453/2001cb9bba954e0ea9525d2d918201ab/job_3e4bdde5__user_191427453.zip"
+    }
+  ],
+  "part_size_limit_mb": 95,
+  "archive_filename": "job_3e4bdde5__user_191427453.zip",
+  "archive_format": "zip",
+  "encrypted": true,
+  "encryption": "AES256",
+  "password_source": "panel_password",
+  "split_method": "standard_zip_volumes",
+  "sha256": "35579c4e18a7c8fc444f803ba852e6c25b7916b408787fbe7ba41ff347684013"
+}
